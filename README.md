@@ -5,7 +5,7 @@ Ich bin Jona, mache aktuell eine ausbildung zum Fachinformatiker Multimedia und 
 ## Projekte
 Projekte an denen ich mitgearbeitet habe:
 - [Mage-of-Swords](https://github.com/Jonix-24/Mage-of-Swords "Mage of Swords link"): Hier habe ich mich unter anderem um das Movement, die Enemy AI und die Waffe gekümmert. 
-- [Void_No_More](https://git.bib.de/PBA3H23ATH/void_no_more "void no more link"): Hier habe ich unter anderem die Enemy Spawns und Drops, Collectibles, die Kamera, Die Charakter Rotation und das Movement gemacht.
+- [Void_No_More](https://git.bib.de/PBA3H23ATH/void_no_more "void no more link"): Hier habe ich unter anderem die Enemy Spawns und Drops, Collectibles, die Kamera, die Charakter Rotation und das Movement gemacht.
 - [Jugg-Mal](https://git.bib.de/PBA3H23ATH/jugg-mal "jugg mal link"): Hier habe ich um die Icons sowie einige der screens und buttons gemacht.
 
 ## Kontaktdaten
