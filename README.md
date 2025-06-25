@@ -1,6 +1,6 @@
 ## Hi!
 
-Ich bin Jona, mache aktuell eine ausbildung zum Fachinformatiker Multimedia und interessiere mich für [Unity](https://unity.com/de "Unity Link"). In meiner Freizeit spiele ich Volleyball, [Jugger](https://www.jugger.de/was-ist-jugger.php "Jugger Link"), D&D, Magic: The Gathering und Videospiele.
+Ich bin Jona, mache aktuell eine Ausbildung zum Fachinformatiker Multimedia und interessiere mich für [Unity](https://unity.com/de "Unity Link"). In meiner Freizeit spiele ich Volleyball, [Jugger](https://www.jugger.de/was-ist-jugger.php "Jugger Link"), D&D, Magic: The Gathering und Videospiele.
 
 ## Projekte
 Projekte an denen ich mitgearbeitet habe:
